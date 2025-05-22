@@ -1,4 +1,4 @@
-# 🌊 OceanGuardian: Smart Maritime Weather Monitoring Station
+# 🌊 Project W4 (Word Wide Weather Watcher): Smart Maritime Weather Monitoring Station
 
 OceanGuardian is a lightweight, Arduino-based weather station designed for ships. It collects and logs essential environmental data like temperature, humidity, brightness, and GPS coordinates — helping monitor ocean conditions and detect early signs of cyclones and natural disasters.
 
@@ -48,7 +48,7 @@ OceanGuardian is a lightweight, Arduino-based weather station designed for ships
 ### Upload & Run
 
 1. Clone this repository
-2. Open the `.ino` file in Arduino IDE
+2. Open the `Main.ino` file in Arduino IDE
 3. Connect your Arduino board and upload the code
 
 ---
@@ -79,7 +79,7 @@ Use the serial monitor to change parameters:
 ## 📂 Documentation
 
 - Project reports & diagrams available in the `/docs` folder:
-  - System architecture
+  - `Main.ino` file
   - User manual
-  - UML & SysML diagrams
+
 
